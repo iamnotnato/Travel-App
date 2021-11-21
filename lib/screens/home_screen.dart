@@ -52,7 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
           children: <Widget>[
             Padding(
               padding: EdgeInsets.only(left: 20.0 , right: 120.0),
-              child: Text('What would you like to find?',
+              child: Text('Where would you like to visit next?',
                 style: TextStyle(
                   fontSize: 30.0,
                   fontWeight: FontWeight.bold
